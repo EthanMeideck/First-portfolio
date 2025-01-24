@@ -29,6 +29,11 @@
     color: black;
 }
 
+#contact_header:hover {
+    color: navy;
+    text-decoration: underline;
+}
+
 .page_content {
     margin-top: 100px;
     margin-left: 40px;
