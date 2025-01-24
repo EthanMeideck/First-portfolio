@@ -25,6 +25,7 @@
 }
 
 #contact_header {
+    text-decoration: none;
     color: black;
 }
 
@@ -67,6 +68,7 @@
     float: left;
     margin-left: 20px;
     font-size: large;
+    text-decoration: none;
     color: black;
 }
 
@@ -76,15 +78,11 @@
 }
 
 #linkedin_icon {
-    /* display: flex;
-    float: right; */
     width: 35px;
     margin-right: 10px;
 }
 
 #github_icon {
-    /* display: flex;
-    float: right; */
     width: 35px;
     margin-right: 40px;
 }
