@@ -24,6 +24,10 @@
     height: 5px;
 }
 
+#contact_header {
+    color: black;
+}
+
 .page_content {
     margin-top: 100px;
     margin-left: 40px;
@@ -32,10 +36,15 @@
 
 #first_paragraph {
     text-justify: auto;
+    font-size: large;
 }
 
 #illustration_img {
     width: 400px;   
+}
+
+.footer {
+    margin-top: 100px;
 }
 
 #img_span {
@@ -43,24 +52,39 @@
     text-align: center;
 }
 
-/* .linkedin_div {
-    text-align: right;
-} */
-
-#linkedin_icon {
-    display: flex;
-    float: right;
-    width: 35px;
-    margin-right: 40px;
+.text_footer {
+    margin-left: 40px;
 }
 
-/* .github_div {
-    text-align: right;
-} */
+#site_plan {
+    display: flex;
+    float: left;
+    font-size: large;
+}
 
-#github_icon {
+#contact_page {
+    display: flex;
+    float: left;
+    margin-left: 20px;
+    font-size: large;
+    color: black;
+}
+
+.image_footer {
     display: flex;
     float: right;
+}
+
+#linkedin_icon {
+    /* display: flex;
+    float: right; */
     width: 35px;
     margin-right: 10px;
+}
+
+#github_icon {
+    /* display: flex;
+    float: right; */
+    width: 35px;
+    margin-right: 40px;
 }
