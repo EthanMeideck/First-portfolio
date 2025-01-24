@@ -1,0 +1,66 @@
+#thumbnail {
+    width: 230px;
+    height: 60px;
+}
+
+.header_thumbnail {
+    display: flex;
+    float: left;
+    margin-left: 50px;
+}
+
+.header_titles {
+    font-size:x-large;
+    display: flex;
+    float: right;
+    margin-right: 50px;
+}
+
+#table_headers {
+    padding: 12px;
+}
+
+#table_titles, th {
+    height: 5px;
+}
+
+.page_content {
+    margin-top: 100px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+#first_paragraph {
+    text-justify: auto;
+}
+
+#illustration_img {
+    width: 400px;   
+}
+
+#img_span {
+    display: block;
+    text-align: center;
+}
+
+/* .linkedin_div {
+    text-align: right;
+} */
+
+#linkedin_icon {
+    display: flex;
+    float: right;
+    width: 35px;
+    margin-right: 40px;
+}
+
+/* .github_div {
+    text-align: right;
+} */
+
+#github_icon {
+    display: flex;
+    float: right;
+    width: 35px;
+    margin-right: 10px;
+}
